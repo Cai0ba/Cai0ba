@@ -10,8 +10,7 @@ A 2rd-year student pursuing Bachelors in Computer science. I am a Full Stack ent
 <img align="right" height="350" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> </a>
 </p>
  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Cai0ba&count_private=true&theme=radical&show_icons=true" /> <p align="left"> <a href="https://twitter.com/caio1noob" target="blank"><img src="https://img.shields.io/twitter/follow/caio1noob?logo=twitter&style=for-the-badge" alt="caio1noob" /></a> </p> 
- - 📫 How to reach me [Caio Silva](mailto:caio.henrique.1204@gmail.com)
- <br><br>
+ <br>
  <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
